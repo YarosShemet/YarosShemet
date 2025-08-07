@@ -8,6 +8,22 @@
 
 ## Python: 
 ○ [Python Projects](https://github.com/YarosShemet/Python-Projects)
+
 ○ [Python for Machine Learning](https://github.com/YarosShemet/Python-for-ML)
+
 ○ [Python Exercises](https://github.com/YarosShemet/Python-Exercises)
+
+## R: 
+○ [R Projects](https://github.com/YarosShemet/R-Projects)
+
+○ [R Exercises](https://github.com/YarosShemet/R-Exercises)
+
+## SQL & PL/SQL: 
+○ [SQL Exercises](https://github.com/YarosShemet/SQL-Exercises)
+
+## Power BI: 
+○ [Power BI dashboards](https://github.com/YarosShemet/PowerBI-dashboards)
+
+## SAS, MATLAB, Julia: 
+○ [Other projects](https://github.com/YarosShemet/Other-projects)
 
